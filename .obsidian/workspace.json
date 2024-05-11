@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "6b6f8e36028d79e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1745cdc7bef2011d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda8d1f28971a4a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80dacec42801c8f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00a45b511aceafe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73622c8b9b86ed63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "982c065be8928962",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f709d26d47188728",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a197a1230b3921f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be33c5a352f3e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c35a2b976b1bde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d691cafd784c9688",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecf9aceb85427f1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15c87ad1cef24634",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eda8d1f28971a4a8",
+  "lastOpenFiles": [
+    "Decision Records/ADR-0001-Retry Mechanisms for Provider Calls.md",
+    "Decision Records/ADR-0002-Circuit Breakers for Provider Calls.md",
+    "Decision Records/ADR-0005-Transactional Inbox for Idempotency and Duplicate Process Avoidance.md",
+    "Status/Proposed.md",
+    "Status/Accepted Status.md",
+    "Untitled.canvas",
+    "People/Hossein.md",
+    "People/Hadi.md",
+    "Tags/Transactional Inbox.md",
+    "Tags/Reliability.md",
+    "Tags/Messaging.md",
+    "Tags/Idempotency.md",
+    "Tags/Circuit Breaker.md",
+    "Tags/Providers.md",
+    "Tags/Retry.md",
+    "Tags/Integration.md",
+    "Tags/Resilience.md",
+    "Status",
+    "People",
+    "Untitled 2.md",
+    "Decision Records",
+    "Tags",
+    "Untitled 5.md",
+    "Welcome.md",
+    "Untitled 3.md",
+    "Untitled 4.md"
+  ]
+}
